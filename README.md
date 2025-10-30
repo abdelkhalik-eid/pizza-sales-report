@@ -13,12 +13,15 @@ It visualizes sales by **category**, **size**, and **month**, highlighting key p
 
 ### 🧭 Overview Dashboard
 ![Overview](images/overview.jpg)
+![overview](https://github.com/user-attachments/assets/f828ce52-bb5f-4842-82ca-f0631d40cb96)
 
-### 🍕 Category Sales Dashboard
+### 🍕 Category Sale!
 ![Category Sales](images/category_sales.jpg)
+![category sales](https://github.com/user-attachments/assets/8fb83b28-88df-4886-a524-2ae06e9590fb)
 
 ### 📦 Pizza Type Order Dashboard
 ![Pizza Type Order](images/pizza_type_order.jpg)
+![pizza type order](https://github.com/user-attachments/assets/8791c427-ce0b-4f04-b1b8-5995b0c92a96)
 
 ---
 
